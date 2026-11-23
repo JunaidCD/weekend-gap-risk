@@ -1,0 +1,54 @@
+{
+  "generated_at_utc": "2026-11-23T06:15:04.312414+00:00",
+  "weekends_requested": 8,
+  "weekends_analysed": 8,
+  "markets": {
+    "NVDA": "xyz:NVDA",
+    "TSLA": "xyz:TSLA",
+    "AAPL": "xyz:AAPL"
+  },
+  "assets_analysed": 3,
+  "median_abs_gap_pct": 0.5580043132105134,
+  "mean_abs_gap_pct": 1.1155093534196865,
+  "largest_abs_gap": {
+    "asset": "NVDA",
+    "weekend": "2026-11-07",
+    "gap_pct": -5.822486474904926
+  },
+  "largest_weekend_range": {
+    "asset": "NVDA",
+    "weekend": "2026-11-07",
+    "peak_trough_pct": 8.16116293710297
+  },
+  "largest_1h_close_move": {
+    "asset": "NVDA",
+    "weekend": "2026-11-14",
+    "largest_1h_close_move_pct": 2.538438347904738
+  },
+  "per_asset": {
+    "NVDA": {
+      "median_abs_gap_pct": 1.5021900844508838,
+      "worst_abs_gap_pct": 5.822486474904926,
+      "mean_weekend_range_pct": 3.724199555300287,
+      "mean_funding_sum_pct": 0.029190091249999998,
+      "mean_funding_hourly_pct": 0.00044867915355477854,
+      "funding_sign_flips": 2
+    },
+    "TSLA": {
+      "median_abs_gap_pct": 0.5058455600527789,
+      "worst_abs_gap_pct": 2.4158224276462548,
+      "mean_weekend_range_pct": 2.8631421637279755,
+      "mean_funding_sum_pct": 0.0445188075,
+      "mean_funding_hourly_pct": 0.0006838329740675991,
+      "funding_sign_flips": 0
+    },
+    "AAPL": {
+      "median_abs_gap_pct": 0.49551256903577984,
+      "worst_abs_gap_pct": 1.1512779184895234,
+      "mean_weekend_range_pct": 1.296970322402248,
+      "mean_funding_sum_pct": 0.026304195000000002,
+      "mean_funding_hourly_pct": 0.0004037368260489511,
+      "funding_sign_flips": 0
+    }
+  }
+}

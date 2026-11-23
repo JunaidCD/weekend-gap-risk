@@ -1,0 +1,13 @@
+symbol,coin,dex,oi_cap_usd,selected
+NVDA,xyz:NVDA,xyz,1000000000.0,yes
+TSLA,xyz:TSLA,xyz,200000000.0,yes
+AAPL,xyz:AAPL,xyz,200000000.0,yes
+NVDA,flx:NVDA,flx,2500000.0,no
+TSLA,flx:TSLA,flx,8000000.0,no
+NVDA,km:NVDA,km,450000.0,no
+TSLA,km:TSLA,km,100000.0,no
+AAPL,km:AAPL,km,160000.0,no
+NVDA,cash:NVDA,cash,20000000.0,no
+TSLA,cash:TSLA,cash,1000000.0,no
+NVDA,io:NVDA,io,30000000.0,no
+AAPL,io:AAPL,io,10000000.0,no
